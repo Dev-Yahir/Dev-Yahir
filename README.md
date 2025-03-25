@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, My name is Yahir Mota and this is a little bit of information about me
+I am a senior at the University of California, Merced and I will be a part of the graduating cohort of Fall 2025. I love physical activities such as working out and I also enjoy taking meaningful amounts of time looking at the dawn/dusk sky.
 
 <!--
 **Dev-Yahir/Dev-Yahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

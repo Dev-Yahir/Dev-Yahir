@@ -1,4 +1,4 @@
-## Hello, My name is Yahir Mota and this is a little bit of information about me
+## Hello, My name is Yahir and this is a little bit of information about me
 I am a graduate of the Univeristy of California, Merced Fall 2025 cohort. I love physical activities such as working out and I also enjoy taking meaningful amounts of time looking at the dawn/dusk sky.
 
 <!--
